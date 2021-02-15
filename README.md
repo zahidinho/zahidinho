@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NodeJS and I want to learn Go
 - 🤔 I’m looking for help with Go
 - 📫 You can reach me via E-Mail or Social Networks
-- 😄 Pronouns: ...asdasd
-- ⚡ Fun fact: ...asdasdasd
 
 *Also, I like writing stuffs on Medium*
 
