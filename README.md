@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a freelance backend developer
 - 🌱 I’m currently learning NodeJS and I want to learn Go
-- 🤔 I’m looking for help with Go
 - 📫 You can reach me via E-Mail or Social Networks
 
 *Also, I like writing stuffs on Medium*
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 ### You may be asked
 
 * You have so many contributions but you have no public repository?
-   > I am a freelancer since last year so i do my own job. So, I keep my repos in private.
+   > I am currently working in a company so...
 * In which languages you develop apps?
   > I personally love backend development so I developed backend applications via PHP / Laravel & NodeJS
   > I have a little experience on frontend with VueJS / React. Enough to show my backend stuffs on frontend.
