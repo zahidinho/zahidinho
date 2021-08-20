@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    > I am currently working in a company so...
 * In which languages you develop apps?
   > I personally love backend development so I developed backend applications via PHP / Laravel & NodeJS
-  > I have a little experience on frontend with VueJS / React. Enough to show my backend stuffs on frontend.
+  > I have experience on frontend with React. Enough to show my backend stuffs on frontend.
 
 Contact:
 `sh $ mzahiddisci@gmail.com`
