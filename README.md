@@ -1,6 +1,6 @@
-### Hi there 👋 What a boring README right there!
+### Hi 👋, What a boring README right there!
 
-```I am currently freelance developer```
+```Full Stack Developer```
 
 ### Have fun with
 ![lang](https://camo.githubusercontent.com/441ef92f4ca6ed08f5179c92de1db983e255289755d138acddb23c503f54fc9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73)
@@ -14,21 +14,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a freelance backend developer
-- 🌱 I’m currently learning NodeJS and I want to learn Go
+- 🌱 I want to learn Go
 - 📫 You can reach me via E-Mail or Social Networks
 
 *Also, I like writing stuffs on Medium*
 
 :books: [Medium Page](https://medium.com/@zahiddisci)
-
-### You may be asked
-
-* You have so many contributions but you have no public repository?
-   > I am currently working in a company so...
-* In which languages you develop apps?
-  > I personally love backend development so I developed backend applications via PHP / Laravel & NodeJS
-  > I have experience on frontend with React. Enough to show my backend stuffs on frontend.
 
 Contact:
 `sh $ mzahiddisci@gmail.com`
