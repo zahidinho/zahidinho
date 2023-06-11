@@ -1,18 +1,13 @@
-Hi 👋 My name is Muhammet Zahid Dişci
+Hi 👋
 =====================================
 
 Backend Developer
 -----------------
 
-In my professional carrier, became the leader of a 4-person team in an ISP start-up. Developed from top to bottom with PHP and JavaScript frameworks in the entire domain. Integrated the APIs it has developed in-house with other companies. Nowadays, he has an interest in Golang and NodeJS. A software engineer with more than 2 years of experience.
-
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mzahiddisci@gmail.com](mailto:mzahiddisci@gmail.com)
-* 🚀  I'm currently working on [KIMZA](http://kimza.net)
-* 🧠  I'm learning Go
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
